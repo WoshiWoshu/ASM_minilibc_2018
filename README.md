@@ -1,0 +1,2 @@
+# ASM_minilibc_2018
+Mini project in Assembly in which the goal is to re-write C Unix library functions in assembly. The program then generate a shared dynamic library to overwrite the C system functions (weak binding).
